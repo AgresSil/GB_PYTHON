@@ -1,4 +1,4 @@
-# from sys import argv
+ from sys import argv
 # def wage():
 #     try:
 #         time, rate, premium= map(int, argv[1:])
